@@ -75,4 +75,4 @@ To Exit from it click on Exit to exit.
 Even FreeBasic supports Linux and FreeBSD but it’s written using WinAPI and GDIPlus functions is applied. So it’s only available for Microsoft Windows.
 
 
-Thanks for using ;3
+Thanks for using!
